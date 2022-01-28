@@ -8,7 +8,7 @@
 
 * Utilizei a API da Wikipedia para prover uma descrição, uma imagem e um link para a própria página da Wikipedia do Livro
 
-* Você pode acessá-lo <a href="https://doglasrocha.github.io/meus-livros/favoritos" target="_blank">aqui</a>
+* Você pode acessá-lo <a href="https://doglasrocha.github.io/meus-livros-favoritos/" target="_blank">aqui</a>
 
 * Imagem do projeto:
 
